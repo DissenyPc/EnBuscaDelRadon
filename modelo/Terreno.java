@@ -45,7 +45,7 @@ public class Terreno {
 			
 		}
 		
-		/*for (int i=0; i < nTerrenos; i++) {
+		for (int i=0; i < nTerrenos; i++) {
 			
 			for (int x=0; x<MuestrasTomadas.get(i).length; x++) {
 				for (int y =0; y < MuestrasTomadas.get(i)[x].length; y++) {	
@@ -55,7 +55,7 @@ public class Terreno {
 				System.out.println("");
 			}
 			
-		}*/
+		}
 		
 		 
 	}
